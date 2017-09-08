@@ -4,7 +4,7 @@
 int main(int argc, char *argv[]) {
     int i = 0;
 	
-	puts("sixth branch modified");
+	puts("It is the Master branch");
 
     if(argc == 1)
     	puts("Not enough arguments");
